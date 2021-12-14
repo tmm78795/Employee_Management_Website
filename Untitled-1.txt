@@ -1,0 +1,10 @@
+POST http://localhost/CSTP1206/payroll3/mainBankInfo.php
+content-Type: application/json
+
+{
+    "id" : 2,
+    "account_number": "123",
+    "transit_number":"123",
+    "institute_number": "1234",
+    "employee_id": 1
+}
